@@ -45,7 +45,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [HTTP Toolkit](https://httptoolkit.com/?ref=Black-Friday-Deals) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows. | 30% OFF any plan for new customers only, no coupon needed (Nov 25–Dec 7) |
-| 💰 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -82,8 +81,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A modern multi-pane file manager with project-based workspaces. | **66% OFF** lifetime license between 24 Nov and 1 Dec |
 | 🔥 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only | 
-| 💸 | [Lasso](https://thelasso.app?utm_source=mRs-Black-Friday-Deals) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
-
+| 💸 | [Launchy: App Launcher Switcher](https://apps.apple.com/us/app/launchy-app-launcher-switcher/id6739782043) | Radial app launcher & switcher for macOS with a customizable wheel and quick keyboard/mouse switching. | **57% OFF** (no code needed). Valid Nov 16–Dec 2, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
